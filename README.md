@@ -16,3 +16,5 @@
 - 🎓 Studying Computer Science, Data Science, and Software Engineering.
 - ⚡ Strong foundation in **Python, Java, R, C, SQL, and TypeScript**.
 - 🎯 Passionate about open-source contributions, system architecture, and process mining.
+
+---
