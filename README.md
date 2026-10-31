@@ -13,3 +13,4 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently building projects in **Data Engineering, Operating Systems, and Web Development**.
+- 🎓 Studying Computer Science, Data Science, and Software Engineering.
