@@ -11,3 +11,5 @@
 ---
 
 ### 👨‍💻 About Me
+
+- 🔭 Currently building projects in **Data Engineering, Operating Systems, and Web Development**.
