@@ -50,3 +50,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravyadav-73/gauravyadav-73/output/github-snake.svg">
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/gauravyadav-73/gauravyadav-73/output/github-snake.svg">
   </picture>
+</div>
