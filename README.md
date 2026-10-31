@@ -18,3 +18,5 @@
 - 🎯 Passionate about open-source contributions, system architecture, and process mining.
 
 ---
+
+### 🛠️ Languages & Tools
