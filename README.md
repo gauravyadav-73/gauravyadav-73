@@ -43,3 +43,5 @@
 ---
 
 ### 🐍 Contribution Graph Snake Game
+
+<div align="center">
