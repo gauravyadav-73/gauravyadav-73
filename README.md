@@ -47,3 +47,4 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravyadav-73/gauravyadav-73/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravyadav-73/gauravyadav-73/output/github-snake.svg">
