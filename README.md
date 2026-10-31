@@ -22,3 +22,4 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,r,c,sql,ts,js,html,css,git,github,vscode,mongodb,postgres,docker" alt="My Tech Stack"/>
