@@ -30,3 +30,4 @@
 ### 📈 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravyadav-73&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gaurav's GitHub Stats" height="175"/>
