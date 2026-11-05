@@ -17,3 +17,4 @@ on:
       timeout-minutes: 10
 
       steps:
+        - name: Generate snake SVG
