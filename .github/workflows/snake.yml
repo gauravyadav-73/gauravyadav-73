@@ -12,3 +12,4 @@ on:
   jobs:
     generate:
       permissions:
+        contents: write
