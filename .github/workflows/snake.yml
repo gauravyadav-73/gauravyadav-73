@@ -27,3 +27,4 @@ on:
 
         - name: Push generated SVGs to output branch
           uses: crazy-max/ghaction-github-pages@v4
+          with:
