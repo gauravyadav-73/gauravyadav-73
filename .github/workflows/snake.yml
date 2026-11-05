@@ -11,3 +11,4 @@ on:
 
   jobs:
     generate:
+      permissions:
