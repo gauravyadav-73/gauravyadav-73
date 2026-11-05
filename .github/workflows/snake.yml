@@ -29,3 +29,4 @@ on:
           uses: crazy-max/ghaction-github-pages@v4
           with:
             target_branch: output
+            build_dir: dist
