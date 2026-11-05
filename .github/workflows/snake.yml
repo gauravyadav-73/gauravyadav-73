@@ -26,3 +26,4 @@ on:
               dist/github-snake-dark.svg?palette=github-dark
 
         - name: Push generated SVGs to output branch
+          uses: crazy-max/ghaction-github-pages@v4
