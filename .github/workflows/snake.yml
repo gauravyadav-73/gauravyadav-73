@@ -18,3 +18,4 @@ on:
 
       steps:
         - name: Generate snake SVG
+          uses: Platane/snk@v3
