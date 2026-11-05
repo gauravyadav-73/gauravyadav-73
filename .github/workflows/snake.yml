@@ -24,3 +24,5 @@ on:
             outputs:
               dist/github-snake.svg
               dist/github-snake-dark.svg?palette=github-dark
+
+        - name: Push generated SVGs to output branch
