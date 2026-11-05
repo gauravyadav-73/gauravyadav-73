@@ -30,3 +30,4 @@ on:
           with:
             target_branch: output
             build_dir: dist
+          env:
